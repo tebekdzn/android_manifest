@@ -1,10 +1,10 @@
-Havoc-OS
+MiksueROM
 ===========
 
 
 Getting Started
 ---------------
-To get started with the Havoc-OS sources, you'll need to get
+To get started with the MiksueROM sources, you'll need to get
 familiar with [Git and Repo](https://source.android.com/setup/develop).
 
 
@@ -39,7 +39,7 @@ To initialize your local repository, use this command:
 ------------------------------------------------------
 
 ```bash
-   repo init -u https://github.com/Havoc-OS/android_manifest.git -b eleven
+   repo init -u https://github.com/tebekdzn/android_manifest.git -b eleven
 ```
   
 To Sync the source:
@@ -63,8 +63,3 @@ Initialize the environment with the envsetup.sh script. Note that replacing "sou
 
 Enter the number of the build you want to start and press enter
 
-
-Applying for Maintainership
----------------
-
-If you have successfully built for your device and want to apply for maintainership then drop in a message to SKULSHADY on Telegram or XDA.
